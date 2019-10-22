@@ -41,7 +41,7 @@ You can specify these parameters by command line arguments with 'key=value' form
 - download : curl ftp://10.100.191.60:10021/[filename] -u brian:1234
 
 
-##URL to test: ftp://10.100.191.60:10021/?username=brian&password=1234
+## URL to test: ftp://10.100.191.60:10021/?username=brian&password=1234
 
 
 
