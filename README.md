@@ -1,7 +1,7 @@
 # ftp-server
 
 
-The FTP server code is attached as a simple java server could be used for the file transfer testing.
+The FTP server code is attached as a simple java server code could be used for the file transfer testing.
 
 ---------------------------------------------------------------------------------------
 The jar is also attached to be executed in the local environment,
