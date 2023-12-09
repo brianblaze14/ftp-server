@@ -1,4 +1,4 @@
-# FTP-Local-Server
+# FTP Local Server
 
 - The FTP server code is attached as a simple java server code could be used for the file transfer testing.
 - Maven: 3.6.3V, JDK:1.8v
