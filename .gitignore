@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea/
+/one-ftpserver/.settings/
+/one-ftpserver/target/
+/one-ftpserver/.classpath
+/one-ftpserver/.project
+/one-ftpserver/one-ftpserver.log
+/one-ftpserver/deploy/
